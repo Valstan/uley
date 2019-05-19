@@ -1,1 +1,1 @@
-sshfs gxneur snapd 
+apt install -y sshfs gxneur snapd chromium-browser chromium-browser-l10n
