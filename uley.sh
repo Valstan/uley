@@ -1,1 +1,1 @@
-sshfs gxneur
+sshfs gxneur snapd 
